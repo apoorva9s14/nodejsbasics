@@ -1,0 +1,9 @@
+NVM Install on mac:
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+
+node js install via nvm :
+nvm install 10
+
+npm install - to install all the dependencies
+npm start - to start the package run
+npm test - to execute the testcases
