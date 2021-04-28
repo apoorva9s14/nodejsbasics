@@ -1,0 +1,20 @@
+#################################################################
+Functions:
+Functions do not check the number of arguments passed to it,
+If any argument is missing, it is set to undefined.
+
+#################################################################
+Function expressions:
+Defining a function using an expression
+var x = function (a, b) {return a * b};
+
+#################################################################
+Arrow functions:
+Short syntax for writing function expressions
+
+const x = (a, b) => { return a * b };
+
+#################################################################
+Callbacks:
+The way nodejs implements callbacks --> callback function is passed
+inside as a parameter to the calling function. 
