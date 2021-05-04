@@ -18,3 +18,7 @@ const x = (a, b) => { return a * b };
 Callbacks:
 The way nodejs implements callbacks --> callback function is passed
 inside as a parameter to the calling function. 
+
+#################################################################
+Async Await:
+They only work with promises
